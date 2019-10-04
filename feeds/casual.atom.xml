@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Momozor's Scrolls of Adventures - Casual</title><link href="https://momozor.github.io/" rel="alternate"></link><link href="https://momozor.github.io/feeds/casual.atom.xml" rel="self"></link><id>https://momozor.github.io/</id><updated>2019-10-04T00:00:00+02:00</updated><entry><title>About Me</title><link href="https://momozor.github.io/about-me.html" rel="alternate"></link><published>2019-10-04T00:00:00+02:00</published><updated>2019-10-04T00:00:00+02:00</updated><author><name>Momozor</name></author><id>tag:momozor.github.io,2019-10-04:/about-me.html</id><summary type="html">&lt;h1&gt;About Me&lt;/h1&gt;
-&lt;p&gt;I love programming, instrumental music, messing with my GNU/Linux distro, thinking about recursion, sometimes playing with simulators, love to read books (you shall not pass) and mangas, sometimes watching animes (I'll recommend you to watch  One Piece if you never did), brocolli, simple cooking recipes, living frugally …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;About Me&lt;/h1&gt;
-&lt;p&gt;I love programming, instrumental music, messing with my GNU/Linux distro, thinking about recursion, sometimes playing with simulators, love to read books (you shall not pass) and mangas, sometimes watching animes (I'll recommend you to watch  One Piece if you never did), brocolli, simple cooking recipes, living frugally..&lt;/p&gt;</content></entry><entry><title>Welcome!</title><link href="https://momozor.github.io/welcome.html" rel="alternate"></link><published>2019-10-04T00:00:00+02:00</published><updated>2019-10-04T00:00:00+02:00</updated><author><name>Momozor</name></author><id>tag:momozor.github.io,2019-10-04:/welcome.html</id><content type="html">&lt;h1&gt;Welcome!&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Momozor's Scrolls of Adventures - Casual</title><link href="https://momozor.github.io/" rel="alternate"></link><link href="https://momozor.github.io/feeds/casual.atom.xml" rel="self"></link><id>https://momozor.github.io/</id><updated>2019-10-04T00:00:00+02:00</updated><entry><title>About Me</title><link href="https://momozor.github.io/about-me.html" rel="alternate"></link><published>2019-10-04T00:00:00+02:00</published><updated>2019-10-04T00:00:00+02:00</updated><author><name>Momozor</name></author><id>tag:momozor.github.io,2019-10-04:/about-me.html</id><summary type="html">&lt;p&gt;I love programming, instrumental music, messing with my GNU/Linux distro, thinking about recursion, sometimes playing with simulators, love to read books (you shall not pass) and mangas, sometimes watching animes (I'll recommend you to watch  One Piece if you never did), brocolli, simple cooking recipes, living frugally..&lt;/p&gt;
+&lt;h2&gt;Some things …&lt;/h2&gt;</summary><content type="html">&lt;p&gt;I love programming, instrumental music, messing with my GNU/Linux distro, thinking about recursion, sometimes playing with simulators, love to read books (you shall not pass) and mangas, sometimes watching animes (I'll recommend you to watch  One Piece if you never did), brocolli, simple cooking recipes, living frugally..&lt;/p&gt;
+&lt;h2&gt;Some things about me&lt;/h2&gt;
+&lt;p&gt;I love programming, instrumental music, roleplaying, fantasy and non-fiction books also cooking for myself.&lt;/p&gt;
+&lt;h2&gt;What books do you recommend to read?&lt;/h2&gt;
+&lt;p&gt;In no particular order:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Name of The Wind by Patrick Rothfuss&lt;/li&gt;
+&lt;li&gt;The Wise Man Fear by Patrick Rothfuss&lt;/li&gt;
+&lt;li&gt;Walden by Henry David Thoreau&lt;/li&gt;
+&lt;li&gt;The Fellowship of The Rings by J.R.R Tolkien&lt;/li&gt;
+&lt;li&gt;The Two Towers by J.R.R Tolkien&lt;/li&gt;
+&lt;li&gt;The Return of The King J.R.R Tolkien&lt;/li&gt;
+&lt;li&gt;The Stand by Stephen King&lt;/li&gt;
+&lt;li&gt;It by Stephen King&lt;/li&gt;
+&lt;li&gt;Vampire Kisses series by Ellen Schreiber (oh yes, baby ^^)&lt;/li&gt;
+&lt;li&gt;Glow Kids by Nicholas Kardaras&lt;/li&gt;
+&lt;li&gt;Jurassic Park by Michael Chrichton&lt;/li&gt;
+&lt;li&gt;The Lost World by Michael Chrichton&lt;/li&gt;
+&lt;li&gt;Sh*t My Dad Says by Justin Halpern&lt;/li&gt;
+&lt;li&gt;Rosemary's Baby by Ira Levin&lt;/li&gt;
+&lt;li&gt;Sex Object by Jessica Valenti&lt;/li&gt;
+&lt;li&gt;The Willows by Algernon Blackwood&lt;/li&gt;
+&lt;li&gt;The Metamorphosis by Franz Kafka&lt;/li&gt;
+&lt;li&gt;The Demon Haunted World: Science As The Candle In The Dark by Carl Sagan&lt;/li&gt;
+&lt;li&gt;Structure and Interpretation of Computer Programs (SICP) by
+Harold Abelson, Gerald Jay Sussman, Julie Sussman&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Do you play video games?&lt;/h2&gt;
+&lt;p&gt;Yes, well sort of. I like RPGs and especially MUDs (Multi User Dungeon) based games.
+Although, I'd spend most of time with building hobby projects or reading.&lt;/p&gt;
+&lt;p&gt;I play some of these, sometimes.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Graal Online Era (2D MMORPG)&lt;/li&gt;
+&lt;li&gt;Aardwolf MUD&lt;/li&gt;
+&lt;li&gt;Transformice (known as user Desperauxq)&lt;/li&gt;
+&lt;li&gt;Minetest (not really, but modding this game was extremely fun).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Do you like space stuff?&lt;/h2&gt;
+&lt;p&gt;Yup, but my interest is more focused on exoplanets and beyond the Milky Way. (Ooom)&lt;/p&gt;
+&lt;h2&gt;Are you an activist?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Yes, and I'm loud about this one. &lt;/li&gt;
+&lt;li&gt;The right to online privacy and consensual data or information sharing of individuals.&lt;/li&gt;
+&lt;/ul&gt;</content></entry><entry><title>Welcome!</title><link href="https://momozor.github.io/welcome.html" rel="alternate"></link><published>2019-10-04T00:00:00+02:00</published><updated>2019-10-04T00:00:00+02:00</updated><author><name>Momozor</name></author><id>tag:momozor.github.io,2019-10-04:/welcome.html</id><content type="html">&lt;h1&gt;Welcome!&lt;/h1&gt;
 &lt;p&gt;Nothing much to see here..&lt;/p&gt;
 &lt;p&gt;Let's see another recent posts, shall we?&lt;/p&gt;</content></entry></feed>
