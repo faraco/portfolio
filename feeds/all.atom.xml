@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Momozor's Scrolls of Adventures</title><link href="https://momozor.github.io/" rel="alternate"></link><link href="https://momozor.github.io/feeds/all.atom.xml" rel="self"></link><id>https://momozor.github.io/</id><updated>2019-10-04T00:00:00+02:00</updated><entry><title>About Me</title><link href="https://momozor.github.io/about-me.html" rel="alternate"></link><published>2019-10-04T00:00:00+02:00</published><updated>2019-10-04T00:00:00+02:00</updated><author><name>Momozor</name></author><id>tag:momozor.github.io,2019-10-04:/about-me.html</id><summary type="html">&lt;p&gt;I love programming, instrumental music, messing with my GNU/Linux distro, thinking about recursion, sometimes playing with simulators, love to read books (you shall not pass) and mangas, sometimes watching animes (I'll recommend you to watch  One Piece if you never did), brocolli, simple cooking recipes, living frugally..&lt;/p&gt;
-&lt;h2&gt;Some things …&lt;/h2&gt;</summary><content type="html">&lt;p&gt;I love programming, instrumental music, messing with my GNU/Linux distro, thinking about recursion, sometimes playing with simulators, love to read books (you shall not pass) and mangas, sometimes watching animes (I'll recommend you to watch  One Piece if you never did), brocolli, simple cooking recipes, living frugally..&lt;/p&gt;
-&lt;h2&gt;Some things about me&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Momozor's Scrolls of Adventures</title><link href="https://momozor.github.io/" rel="alternate"></link><link href="https://momozor.github.io/feeds/all.atom.xml" rel="self"></link><id>https://momozor.github.io/</id><updated>2019-10-04T00:00:00+02:00</updated><entry><title>About Me</title><link href="https://momozor.github.io/about-me.html" rel="alternate"></link><published>2019-10-04T00:00:00+02:00</published><updated>2019-10-04T00:00:00+02:00</updated><author><name>Momozor</name></author><id>tag:momozor.github.io,2019-10-04:/about-me.html</id><summary type="html">&lt;h2&gt;Some things about me&lt;/h2&gt;
+&lt;p&gt;I love programming, instrumental music, roleplaying, fantasy and non-fiction books also cooking for myself.&lt;/p&gt;
+&lt;h2&gt;What books do you recommend to read?&lt;/h2&gt;
+&lt;p&gt;In no particular order:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Name of The Wind by Patrick Rothfuss&lt;/li&gt;
+&lt;li&gt;The Wise Man Fear by Patrick Rothfuss&lt;/li&gt;
+&lt;li&gt;Walden by Henry David Thoreau&lt;/li&gt;
+&lt;li&gt;The …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Some things about me&lt;/h2&gt;
 &lt;p&gt;I love programming, instrumental music, roleplaying, fantasy and non-fiction books also cooking for myself.&lt;/p&gt;
 &lt;h2&gt;What books do you recommend to read?&lt;/h2&gt;
 &lt;p&gt;In no particular order:&lt;/p&gt;
