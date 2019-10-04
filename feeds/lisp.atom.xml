@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Momozor's Scrolls of Adventures - Lisp</title><link href="https://momozor.github.io/" rel="alternate"></link><link href="https://momozor.github.io/feeds/lisp.atom.xml" rel="self"></link><id>https://momozor.github.io/</id><updated>2019-10-04T00:00:00+02:00</updated><entry><title>Which Lisp?</title><link href="https://momozor.github.io/which-lisp.html" rel="alternate"></link><published>2019-10-04T00:00:00+02:00</published><updated>2019-10-04T00:00:00+02:00</updated><author><name>Momozor</name></author><id>tag:momozor.github.io,2019-10-04:/which-lisp.html</id><summary type="html">&lt;h1&gt;Ah, you must be that one troubled fellow on deciding which Lisp to use&lt;/h1&gt;
+&lt;p&gt;You shall not take everything I say as the infallible truth, but let me
+put it down here. For you.&lt;/p&gt;
+&lt;h2&gt;Use Common Lisp&lt;/h2&gt;
+&lt;p&gt;If you want to be use a solid, hard rock stable,
+rich in …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Ah, you must be that one troubled fellow on deciding which Lisp to use&lt;/h1&gt;
+&lt;p&gt;You shall not take everything I say as the infallible truth, but let me
+put it down here. For you.&lt;/p&gt;
+&lt;h2&gt;Use Common Lisp&lt;/h2&gt;
+&lt;p&gt;If you want to be use a solid, hard rock stable,
+rich in history, full of features, tested in production and &lt;strong&gt;space&lt;/strong&gt;
+Lisp.&lt;/p&gt;
+&lt;h2&gt;Use Clojure&lt;/h2&gt;
+&lt;p&gt;If you want a JVM first-class citizen Lisp.&lt;/p&gt;
+&lt;h2&gt;Use Racket&lt;/h2&gt;
+&lt;p&gt;If you want to learn Scheme, a Lisp dialect that has a lot of
+features to help you learn and be productive in your professional work.&lt;/p&gt;</content></entry></feed>
