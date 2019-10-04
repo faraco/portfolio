@@ -11,18 +11,23 @@ to make the game.&lt;/p&gt;
 &lt;p&gt;Nothing much to see here..&lt;/p&gt;
 &lt;p&gt;Let's see another recent posts, shall we?&lt;/p&gt;</content></entry><entry><title>Which Lisp?</title><link href="https://momozor.github.io/which-lisp.html" rel="alternate"></link><published>2019-10-04T00:00:00+02:00</published><updated>2019-10-04T00:00:00+02:00</updated><author><name>Momozor</name></author><id>tag:momozor.github.io,2019-10-04:/which-lisp.html</id><summary type="html">&lt;h1&gt;Ah, you must be that one troubled fellow on deciding which Lisp to use&lt;/h1&gt;
 &lt;p&gt;You shall not take everything I say as the infallible truth, but let me
-put it down here. For you.&lt;/p&gt;
+put it down here. For &lt;strong&gt;you&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2&gt;Use Common Lisp&lt;/h2&gt;
-&lt;p&gt;If you want to be use a solid, hard rock stable,
-rich in …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Ah, you must be that one troubled fellow on deciding which Lisp to use&lt;/h1&gt;
+&lt;p&gt;If you want to use a solid, hard rock stable,
+rich in history …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Ah, you must be that one troubled fellow on deciding which Lisp to use&lt;/h1&gt;
 &lt;p&gt;You shall not take everything I say as the infallible truth, but let me
-put it down here. For you.&lt;/p&gt;
+put it down here. For &lt;strong&gt;you&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2&gt;Use Common Lisp&lt;/h2&gt;
-&lt;p&gt;If you want to be use a solid, hard rock stable,
+&lt;p&gt;If you want to use a solid, hard rock stable,
 rich in history, full of features, tested in production and &lt;strong&gt;space&lt;/strong&gt;
 Lisp.&lt;/p&gt;
 &lt;h2&gt;Use Clojure&lt;/h2&gt;
 &lt;p&gt;If you want a JVM first-class citizen Lisp.&lt;/p&gt;
 &lt;h2&gt;Use Racket&lt;/h2&gt;
-&lt;p&gt;If you want to learn Scheme, a Lisp dialect that has a lot of
-features to help you learn and be productive in your professional work.&lt;/p&gt;</content></entry></feed>
+&lt;p&gt;If you want to learn Lisp for the first time, use Scheme on Racket.
+Scheme is a simpler Lisp dialect (compared to Common Lisp) and very suitable
+to be used for teaching programming. I learned Scheme first before Common Lisp,
+and it was a really &lt;strong&gt;&lt;em&gt;fun&lt;/em&gt;&lt;/strong&gt; experience although learning Common Lisp first would
+be totally okay.&lt;/p&gt;
+&lt;p&gt;Racket platform has a lot of features to help you learn and be productive in your professional work
+or in your programming studies.&lt;/p&gt;</content></entry></feed>
