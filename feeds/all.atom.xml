@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Momozor's Scrolls of Adventures</title><link href="https://momozor.github.io/" rel="alternate"></link><link href="https://momozor.github.io/feeds/all.atom.xml" rel="self"></link><id>https://momozor.github.io/</id><updated>2019-10-04T00:00:00+02:00</updated><entry><title>Welcome!</title><link href="https://momozor.github.io/welcome.html" rel="alternate"></link><published>2019-10-04T00:00:00+02:00</published><updated>2019-10-04T00:00:00+02:00</updated><author><name>Momozor</name></author><id>tag:momozor.github.io,2019-10-04:/welcome.html</id><content type="html">&lt;h1&gt;Welcome!&lt;/h1&gt;
+&lt;p&gt;Nothing much to see here..&lt;/p&gt;
+&lt;p&gt;Let's see another recent posts, shall we?&lt;/p&gt;</content></entry></feed>
