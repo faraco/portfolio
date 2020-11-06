@@ -1,0 +1,47 @@
+<html>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <head>
+	<title>Momozor's Homepage</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="https://avatars3.githubusercontent.com/u/24475030?s=460&v=4" type="image/x-icon">
+        <link rel="stylesheet" href="/style.css"/>
+    </head>
+
+    <header>
+        <nav>[ <a class="nav-btn" href="/index.html">Home</a> ] [ <a class="nav=btn" href="/about.html">About</a> ] [ <a class="nav-btn" href="/contact.html">Contact</a> ]</nav>
+    </header>
+    
+    <body>
+        <article>
+            <h1>Chicken Scheme as one of Golang's rivals</h1>
+            <hr>
+
+            <p>As someone who programs in LISP languages quite consistently, I think Chicken Scheme can do what Golang was designed for even better.</p>
+
+            <p>Some notable features that makes Chicken Scheme a direct contender of Golang for system services and CLI programs (IMHO): </p>
+            <ul>
+                <li>Unlike Golang, Chicken Scheme is based of one of the major (and mature) LISP family languages, Scheme, a very simple and lightweight LISP.</li>
+                <li>Generally way more expressive with dynamic typing system, but Chicken Scheme also comes with <a href="http://wiki.call-cc.org/man/5/Types">"compile time types information analysis"</a> if you choose to use it.</li>
+                <li>Static linking of eggs (modules or extensions) by default, which ease the making of a bundled executable.</li>
+                <li>Comes with a decent compiler which compiles Chicken Scheme source code to C.</li>
+                <li>Excellent C FFI, good to interact with existing C code.</li>
+                <li>Chicken Scheme 5.x.x core is small enough to be embeddable.</li>
+                <li><i>chicken-install</i> to install and manage Chicken Scheme modules automatically. Think it as <i>go get</i> and Rust's <i>cargo.</i></li>
+                <li>Unix-like system friendly in terms of pool of toolings and libraries.</li>
+            </ul>
+
+            <p>However, Chicken Scheme 5.x.x and Scheme in general really have some significant issues as well: </p>
+            <ul>
+                <li>A very tiny set of available libraries from the official egg hosting site, if not counting other available libraries by other independent authors.</li>
+                <li>Lack of good IDEs, if not counting Emacs which have a serious initial steep learning curve.</li>
+                <li>Puny community which means there are less resources and support to get from.</li>
+                <li>In spite of being a language with some SRFI standards, it doesn't mean you could always use other Scheme implementation code without you ending up scratching your head fixing source compatibility issues. Some Scheme languages can be too small and ended up implementing their own functions and things that might not work right away in Chicken Scheme. There is still an ongoing issue with incompatible and fragmentation of different Scheme-like languages and implementations. For example, some Guile Scheme libraries won't even work in Chibi Scheme and Chicken Scheme.</li>
+                <li>The mainstream programming community usually doesn't venture too far out from ALGOL syntax languages, and with uncommon LISP syntax, which could induce beginners to give them an impression of an esoteric programming language. Of course, this have nothing to do with the language itself, but this should be considered nonetheless if you are looking for contributors, for your Chicken Scheme projects.</li>
+                <li>Compilation time for Chicken Scheme compiler is slower compared to fast Golang's compiler. This really shows for large files.</li>
+            </ul>
+
+            <p>I think Chicken Scheme would fit best for Linux kernel using distributions, FreeBSD and OpenBSD command line and background system applications at the moment, also not to forget as an embedded programming language, where currently Lua is the most popular for C/C++ interfacing lightweight embedded language. Not quite sure about execution performance between Chicken Scheme and Lua myself, however.</p>
+        </article>
+    </body>
+</html>
