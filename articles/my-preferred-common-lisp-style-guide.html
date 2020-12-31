@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+	<title>Momozor's Homepage</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="https://avatars3.githubusercontent.com/u/24475030?s=460&v=4" type="image/x-icon">
+        <link rel="stylesheet" href="/style.css"/>
+    </head>
+
+    <header>
+        <nav>[ <a class="nav-btn" href="/index.html">Home</a> ] [ <a class="nav=btn" href="/about.html">About</a> ] [ <a class="nav-btn" href="/contact.html">Contact</a> ] [ <a class="nav-btn" href="/repositories.html">Repositories</a> ]</nav>
+    </header>
+    
+    <article>
+        <h1>My preferred Common Lisp style guide</h1>
+        <hr>
+
+        <p>Personally, I really like <a href="https://google.github.io/styleguide/lispguide.xml">Google's Common Lisp</a> and
+            <a href="https://lisp-lang.org/style-guide/">lisp.lang.org</a> style guides. They are excellent compiled references if you are looking for on how to organize your code properly.</p>
+
+        <p>However, if you ask me, I would like some minimal changes out of both of them. Those are:
+            <ul>
+                <li>Append ! to a procedure name to mark it that the procedure would mutate global or onto variables that are passed into it. Example: (defun mutator! (x) (setf x 7))</li>
+                <li>Use ? instead of p or -p. Example: (defun mutating? (x) (not x)) or (defun currently-mutating? (x) (not x))</li>
+            </ul>
+            
+            Yeah. My preference looks like Scheme code style, and it's true.
+            I really like if I can differentiate between if a function/procedure would be "destructive" in FP sense.
+            It's also helpful to know on when prioritize which procedure might cause trouble in unit testing as well.
+            The biggest issue is, your style might looks cluttered when you are using libraries that follows the "commonly used" (similar to Google's, mostly) style.
+        </p>
+        <p>Of course, like any style guides, just don't treat them as infallible source of truth, I would say.</p>
+    </article>
+</html>
