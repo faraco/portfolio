@@ -22,7 +22,7 @@
 
         <p>However, if you ask me, I would like some minimal changes out of both of them. Those are:
             <ul>
-                <li>Append ! to a procedure name to mark it that the procedure would mutate global or onto variables that are passed into it. Example: (defun mutator! (x) (setf x 7))</li>
+                <li>Append ! to a procedure name to mark it that the procedure would mutate global or variables that are passed to the function. Example: (defun mutator! (x) (setf x 7))</li>
                 <li>Use ? instead of p or -p. Example: (defun mutating? (x) (not x)) or (defun currently-mutating? (x) (not x))</li>
             </ul>
             
