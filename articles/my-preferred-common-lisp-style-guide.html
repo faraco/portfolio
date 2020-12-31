@@ -22,13 +22,13 @@
 
         <p>However, if you ask me, I would like some minimal changes out of both of them. Those are:
             <ul>
-                <li>Append ! to a procedure name to mark it that the procedure would mutate global or variables that are passed to the function. Example: (defun mutator! (x) (setf x 7))</li>
-                <li>Use ? instead of p or -p. Example: (defun mutating? (x) (not x)) or (defun currently-mutating? (x) (not x))</li>
+                <li>Append ! to a procedure name to mark it that the procedure would mutate global or variables that are passed to the procedure. Example: <code>(defun mutator! (x) (setf x 7))</code></li>
+                <li>Use ? instead of p or -p. Example: <code>(defun mutating? (x) (not x))</code> or <code>(defun currently-mutating? (x) (not x))</code></li>
             </ul>
             
             Yeah. My preference looks like Scheme code style, and it's true.
             I really like if I can differentiate between if a function/procedure would be "destructive" in FP sense.
-            It's also helpful to know on when prioritize which procedure might cause trouble in unit testing as well.
+            It's also helpful to know on when to prioritize which procedure might cause trouble in unit testing as well.
             The biggest issue is, your style might looks cluttered when you are using libraries that follows the "commonly used" (similar to Google's, mostly) style.
         </p>
         <p>Of course, like any style guides, just don't treat them as infallible source of truth, I would say.</p>
